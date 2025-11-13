@@ -1,0 +1,30 @@
+div{
+    margin-bottom: 10px;
+    display: flex;
+    width:800px;
+}
+
+input,textarea{
+    border-top: 1px gray dotted;
+    border-bottom:1px gray solid;
+    border-left: none;
+    border-right: none;
+    background-color: #f1fff0;
+}
+label {
+    font-style: italic;
+    width: 70px;
+    font-weight: bold;
+    
+}
+
+#submit{
+    display: flex;
+    margin-left: 70px;
+    width: 170px;
+}
+.privacy{
+margin-left: 70px;
+;}
+#privacylabel{
+width: 180px;}
